@@ -29,7 +29,7 @@ clear ; close all; clc
 
 fprintf('Visualizing example dataset for outlier detection.\n\n');
 
-%  The following command loads the dataset. You should now have the
+%  The following command loads the dataset. You should now have
 %  variables X, Xval, yval in your environment
 load('ex8data1.mat');
 
